@@ -1,4 +1,4 @@
-### Headless WordPress App with Next.js and WPGraphQL
+## Headless WordPress App with Next.js and WPGraphQL  and Apollo Client 
 ## Getting Started
 
 First, run the development server:
